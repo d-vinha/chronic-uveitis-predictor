@@ -1,5 +1,4 @@
-# Predictor of Chronic Uveitis Risk in JIA patients
-## chronic-uveitis-predictor
+# Predictor of Chronic Uveitis Risk in JIA patients (chronic-uveitis-predictor)
 
 ## Live Demo
 Find the app at: [chronic-uveitis-predictor.vercel.app](https://chronic-uveitis-predictor.vercel.app/)
