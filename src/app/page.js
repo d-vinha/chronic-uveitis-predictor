@@ -25,7 +25,7 @@ const generateExplanation = (data, result, shapValues) => {
   
   // Clinical feature names for better readability
   const clinicalNames = {
-    'jia_form': 'JIA Form',
+    'jia_form': 'Juvenile Idiopathic Arthritis (JIA) Form',
     'ana_result': 'ANA Status',
     'early_onset': 'Early Disease Onset',
     'n_biologic_switches': 'Number of Biologic Switches',
@@ -235,7 +235,7 @@ export default function UveitisPredictor() {
     <main className="min-h-screen bg-gray-100 py-8">
       <div className="max-w-4xl mx-auto px-4">
         <h1 className="text-2xl font-bold text-center mb-6" style={{ color: '#0047AB' }}>
-          Chronic Uveitis Risk Prediction
+          Chronic Uveitis Risk Prediction in JIA Patients
         </h1>
         <div className="flex justify-center space-x-4 text-sm">
         <a 
@@ -243,7 +243,7 @@ export default function UveitisPredictor() {
           className="text-blue-600 hover:text-blue-800 underline"
           target="_blank"
           rel="noopener noreferrer">
-                GitHub Repository
+                Link to GitHub Repository
         </a>      
       </div>
         <div className="bg-white p-6 rounded-lg shadow-md">
@@ -287,7 +287,7 @@ export default function UveitisPredictor() {
             {/* JIA Form */}
             <div className="form-group">
               <label className="block text-gray-700 font-bold mb-2">
-                JIA Form
+                Juvenile Idiopathic Arthritis (JIA) Form
               </label>
               <select
                 name="jia_form"
@@ -297,9 +297,9 @@ export default function UveitisPredictor() {
                 className="w-full px-3 py-2 border rounded-md focus:ring-2 focus:ring-blue-500 focus:outline-none text-black"
               >
                 <option value="" className="text-black">Select</option>
-                <option value="Other" className="text-black">Other</option>
-                <option value="Extended Oligo" className="text-black">Extended Oligo</option>
-                <option value="Persistent Oligo" className="text-black">Persistent Oligo</option>
+                <option value="Persistent Oligo" className="text-black">Persistent Oligoarthritis</option>
+                <option value="Extended Oligo" className="text-black">Extended Oligoarthritis</option>
+                <option value="Other" className="text-black">Other (RF+ Poly, RF- Poly, PsA, ERA, Systemic, Undifferentiated)</option>
               </select>
             </div>
   
