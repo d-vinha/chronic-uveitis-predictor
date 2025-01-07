@@ -1,5 +1,4 @@
-# chronic-uveitis-predictor
-Predictor of Chronic Uveitis Risk in JIA patients
+# chronic-uveitis-predictor - Predictor of Chronic Uveitis Risk in JIA patients
 
 chronic-uveitis-predictor is a small web application designed to output
 predictions of the risk of Chronic Uveitis in patients with Juvenile 
