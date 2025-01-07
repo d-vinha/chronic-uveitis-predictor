@@ -1,6 +1,7 @@
 # chronic-uveitis-predictor - Predictor of Chronic Uveitis Risk in JIA patients
 Find the app at:
 <https://chronic-uveitis-predictor.vercel.app/>
+Web application was developed using Next.js and deployed using Vercel
 
 chronic-uveitis-predictor is a small web application designed to output
 predictions of the risk of Chronic Uveitis in patients with Juvenile 
@@ -9,11 +10,31 @@ in a study done with anonymized data from Reuma.pt (Rheumatic Diseases
 Portuguese Registry). It is intended to function as a helper tool and its 
 use HAS NOT BEEN CLINICALLY VALIDATED.
 
+Model Creation Details:
+Decision Tree (DT) created using 3-fold, 10-repeats cross-validation, with prior
+systematic comparison of DT performance across different maximum depths (2-7).
+This was done to understand how model complexity affects performance and stability,
+and to achieve the best balance in terms of sensitivity, specificity, area under
+the curve (AUC-ROC), positive predictive value (PPV) & negative predictive value (NPV).
+
+Model Model Performance Summary
+Sensitivity: 0.729 (±0.156)
+Specificity: 0.744 (±0.051)
+PPV: 0.199 (±0.027)
+AUC-ROC: 0.788
+
+Global Feature Importance was evaluated:
+JIA Form                         0.534
+ANA Result                       0.189
+Number of Biologic switches      0.154
+Early Onset (≤ 6Yrs)             0.123
+
+Individual feature importance for each patient was calculated using SHAP
+(SHapley Additive exPlanations) values and are presented for each individual case.
+
 Copyright (C) 2024  Duarte Vinha
 
 Author's contact: duartevinha@gmail.com
-
-Web application was developed using Next.js and deployed using Vercel
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by the 
