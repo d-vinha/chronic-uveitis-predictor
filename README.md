@@ -9,6 +9,7 @@ Portuguese Registry). It is intended to function as a helper tool and its
 use HAS NOT BEEN CLINICALLY VALIDATED.
 
 Copyright (C) 2024  Duarte Vinha
+
 Author's contact: duartevinha@gmail.com
 
 This program is free software: you can redistribute it and/or modify
