@@ -1,4 +1,6 @@
 # chronic-uveitis-predictor - Predictor of Chronic Uveitis Risk in JIA patients
+Find the app at:
+<https://chronic-uveitis-predictor.vercel.app/>
 
 chronic-uveitis-predictor is a small web application designed to output
 predictions of the risk of Chronic Uveitis in patients with Juvenile 
@@ -11,7 +13,7 @@ Copyright (C) 2024  Duarte Vinha
 
 Author's contact: duartevinha@gmail.com
 
-Web application was developed using Next.js and deployed using GitHub
+Web application was developed using Next.js and deployed using Vercel
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by the 

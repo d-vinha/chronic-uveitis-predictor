@@ -237,7 +237,15 @@ export default function UveitisPredictor() {
         <h1 className="text-2xl font-bold text-center mb-6" style={{ color: '#0047AB' }}>
           Chronic Uveitis Risk Prediction
         </h1>
-        
+        <div className="flex justify-center space-x-4 text-sm">
+        <a 
+          href="https://github.com/d-vinha/chronic-uveitis-predictor" 
+          className="text-blue-600 hover:text-blue-800 underline"
+          target="_blank"
+          rel="noopener noreferrer">
+                GitHub Repository
+        </a>      
+      </div>
         <div className="bg-white p-6 rounded-lg shadow-md">
           <form onSubmit={handleSubmit} className="space-y-4">
             {/* Early Onset */}
