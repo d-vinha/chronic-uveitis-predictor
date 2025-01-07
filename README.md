@@ -11,6 +11,8 @@ Copyright (C) 2024  Duarte Vinha
 
 Author's contact: duartevinha@gmail.com
 
+Web application was developed using Next.js and deployed using GitHub
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by the 
 Free Software Foundation, either version 3 of the License, or (at your 

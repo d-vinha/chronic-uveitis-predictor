@@ -1,0 +1,2116 @@
+{
+  "combinations": [
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 0,
+        "ana_result": "Negative",
+        "ever_biologic": "No",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.06527475759284095,
+        "n_biologic_switches": -0.029950759837053177,
+        "ana_result": -0.1355672879900499,
+        "ever_biologic": 0.0,
+        "jia_form": -0.26920719458005915
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 1,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.06527475759284095,
+        "n_biologic_switches": 0.011907340531265798,
+        "ana_result": -0.15649633817420938,
+        "ever_biologic": 0.0,
+        "jia_form": -0.2901362447642186
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 2,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.06527475759284095,
+        "n_biologic_switches": 0.011907340531265798,
+        "ana_result": -0.15649633817420938,
+        "ever_biologic": 0.0,
+        "jia_form": -0.2901362447642186
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 3,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 4,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 5,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 6,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 7,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 8,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 9,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 10,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3920227125241579,
+        "n_biologic_switches": 0.2243303726115107,
+        "ana_result": -0.134629440133657,
+        "ever_biologic": 0.0,
+        "jia_form": -0.19767821995369902
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 0,
+        "ana_result": "Negative",
+        "ever_biologic": "No",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.04393050068997253,
+        "n_biologic_switches": -0.05401546001940955,
+        "ana_result": -0.09823403076982369,
+        "ever_biologic": 0.0,
+        "jia_form": -0.3916810099007424
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 1,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.04393050068997253,
+        "n_biologic_switches": -0.012157359651090577,
+        "ana_result": -0.11916308095398319,
+        "ever_biologic": 0.0,
+        "jia_form": -0.41261006008490186
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 2,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.04393050068997253,
+        "n_biologic_switches": -0.012157359651090577,
+        "ana_result": -0.11916308095398319,
+        "ever_biologic": 0.0,
+        "jia_form": -0.41261006008490186
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 3,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 4,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 5,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 6,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 7,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 8,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 9,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 10,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.10083604340272997,
+        "n_biologic_switches": 0.5839191700732287,
+        "ana_result": -0.09729618291343078,
+        "ever_biologic": 0.0,
+        "jia_form": -0.08745903056253096
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 0,
+        "ana_result": "Positive",
+        "ever_biologic": "No",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.0345462209920079,
+        "n_biologic_switches": -0.03770833014674198,
+        "ana_result": 0.1352057072684545,
+        "ever_biologic": 0.0,
+        "jia_form": -0.3698925877999899
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 1,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.0345462209920079,
+        "n_biologic_switches": 0.03537614818589663,
+        "ana_result": 0.14550303504861464,
+        "ever_biologic": 0.0,
+        "jia_form": -0.4532743939127886
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 2,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.0345462209920079,
+        "n_biologic_switches": 0.03537614818589663,
+        "ana_result": 0.14550303504861464,
+        "ever_biologic": 0.0,
+        "jia_form": -0.4532743939127886
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 3,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 4,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 5,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 6,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 7,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 8,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 9,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 10,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": -0.3612941759233248,
+        "n_biologic_switches": 0.1737315852762877,
+        "ana_result": 0.09330233809931326,
+        "ever_biologic": 0.0,
+        "jia_form": -0.40573974745227936
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 0,
+        "ana_result": "Positive",
+        "ever_biologic": "No",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.018957398165285477,
+        "n_biologic_switches": -0.06177303032909836,
+        "ana_result": 0.11683732536316059,
+        "ever_biologic": 0.0,
+        "jia_form": -0.3809631248696331
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 1,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.018957398165285477,
+        "n_biologic_switches": 0.011311448003540253,
+        "ana_result": 0.12713465314332076,
+        "ever_biologic": 0.0,
+        "jia_form": -0.46434493098243174
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 2,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.018957398165285477,
+        "n_biologic_switches": 0.011311448003540253,
+        "ana_result": 0.12713465314332076,
+        "ever_biologic": 0.0,
+        "jia_form": -0.46434493098243174
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 3,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 4,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 5,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 6,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 7,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 8,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 9,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 10,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Other"
+      },
+      "shap_values": {
+        "early_onset": 0.07586294087804292,
+        "n_biologic_switches": 0.5333203827380056,
+        "ana_result": 0.07493395619401937,
+        "ever_biologic": 0.0,
+        "jia_form": -0.18411727981007112
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 0,
+        "ana_result": "Negative",
+        "ever_biologic": "No",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.15892438784532728,
+        "n_biologic_switches": -0.03355180646695265,
+        "ana_result": -0.2676791798723377,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1164328105322878
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 1,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.15892438784532728,
+        "n_biologic_switches": 0.038287212623119085,
+        "ana_result": -0.34857006750000263,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1254846790698811
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 2,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.15892438784532728,
+        "n_biologic_switches": 0.038287212623119085,
+        "ana_result": -0.34857006750000263,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1254846790698811
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 3,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 4,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 5,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 6,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 7,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 8,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 9,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 10,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 0,
+        "ana_result": "Negative",
+        "ever_biologic": "No",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.12572492883300224,
+        "n_biologic_switches": -0.0367081433039709,
+        "ana_result": -0.12338594687786039,
+        "ever_biologic": 0.0,
+        "jia_form": 0.16940305360712057
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 1,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.12572492883300224,
+        "n_biologic_switches": 0.03513087578610082,
+        "ana_result": -0.2042768345055254,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17845492214471387
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 2,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.12572492883300224,
+        "n_biologic_switches": 0.03513087578610082,
+        "ana_result": -0.2042768345055254,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17845492214471387
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 3,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 4,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 5,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 6,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 7,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 8,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 9,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 10,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 0,
+        "ana_result": "Positive",
+        "ever_biologic": "No",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.0401584343372273,
+        "n_biologic_switches": -0.08088191246487055,
+        "ana_result": 0.147325902558434,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1599795044846244
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 1,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.0401584343372273,
+        "n_biologic_switches": 0.11164721958802297,
+        "ana_result": 0.18712512789359073,
+        "ever_biologic": 0.0,
+        "jia_form": 0.19604235209208054
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 2,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.0401584343372273,
+        "n_biologic_switches": 0.11164721958802297,
+        "ana_result": 0.18712512789359073,
+        "ever_biologic": 0.0,
+        "jia_form": 0.19604235209208054
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 3,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 4,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 5,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 6,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 7,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 8,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 9,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 10,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 0,
+        "ana_result": "Positive",
+        "ever_biologic": "No",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.029203757912041713,
+        "n_biologic_switches": -0.0840382493018888,
+        "ana_result": 0.07633201112385066,
+        "ever_biologic": 0.0,
+        "jia_form": 0.16476754050695694
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 1,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.029203757912041713,
+        "n_biologic_switches": 0.10849088275100471,
+        "ana_result": 0.11613123645900739,
+        "ever_biologic": 0.0,
+        "jia_form": 0.2008303881144131
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 2,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.029203757912041713,
+        "n_biologic_switches": 0.10849088275100471,
+        "ana_result": 0.11613123645900739,
+        "ever_biologic": 0.0,
+        "jia_form": 0.2008303881144131
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 3,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 4,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 5,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 6,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 7,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 8,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 9,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 10,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Extended Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 0,
+        "ana_result": "Negative",
+        "ever_biologic": "No",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.15892438784532728,
+        "n_biologic_switches": -0.03355180646695265,
+        "ana_result": -0.2676791798723377,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1164328105322878
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 1,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.15892438784532728,
+        "n_biologic_switches": 0.038287212623119085,
+        "ana_result": -0.34857006750000263,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1254846790698811
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 2,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.15892438784532728,
+        "n_biologic_switches": 0.038287212623119085,
+        "ana_result": -0.34857006750000263,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1254846790698811
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 3,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 4,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 5,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 6,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 7,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 8,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 9,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 10,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.2017807957272024,
+        "n_biologic_switches": 0.1182638841362693,
+        "ana_result": -0.34570199537470264,
+        "ever_biologic": 0.0,
+        "jia_form": 0.08549634331330598
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 0,
+        "ana_result": "Negative",
+        "ever_biologic": "No",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.12572492883300224,
+        "n_biologic_switches": -0.0367081433039709,
+        "ana_result": -0.12338594687786039,
+        "ever_biologic": 0.0,
+        "jia_form": 0.16940305360712057
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 1,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.12572492883300224,
+        "n_biologic_switches": 0.03513087578610082,
+        "ana_result": -0.2042768345055254,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17845492214471387
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 2,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.12572492883300224,
+        "n_biologic_switches": 0.03513087578610082,
+        "ana_result": -0.2042768345055254,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17845492214471387
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 3,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 4,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 5,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 6,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 7,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 8,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 9,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 10,
+        "ana_result": "Negative",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.13318868526186814,
+        "n_biologic_switches": 0.16542771160999206,
+        "ana_result": -0.20140876238022537,
+        "ever_biologic": 0.0,
+        "jia_form": 0.037826257766656754
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 0,
+        "ana_result": "Positive",
+        "ever_biologic": "No",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.0401584343372273,
+        "n_biologic_switches": -0.08088191246487055,
+        "ana_result": 0.147325902558434,
+        "ever_biologic": 0.0,
+        "jia_form": 0.1599795044846244
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 1,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.0401584343372273,
+        "n_biologic_switches": 0.11164721958802297,
+        "ana_result": 0.18712512789359073,
+        "ever_biologic": 0.0,
+        "jia_form": 0.19604235209208054
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 2,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.0401584343372273,
+        "n_biologic_switches": 0.11164721958802297,
+        "ana_result": 0.18712512789359073,
+        "ever_biologic": 0.0,
+        "jia_form": 0.19604235209208054
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 3,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 4,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 5,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 6,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 7,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 8,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 9,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "No",
+        "n_biologic_switches": 10,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": -0.08301484221910241,
+        "n_biologic_switches": 0.18190915222122536,
+        "ana_result": 0.18027846113894289,
+        "ever_biologic": 0.0,
+        "jia_form": 0.17548349409540107
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 0,
+        "ana_result": "Positive",
+        "ever_biologic": "No",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.029203757912041713,
+        "n_biologic_switches": -0.0840382493018888,
+        "ana_result": 0.07633201112385066,
+        "ever_biologic": 0.0,
+        "jia_form": 0.16476754050695694
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 1,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.029203757912041713,
+        "n_biologic_switches": 0.10849088275100471,
+        "ana_result": 0.11613123645900739,
+        "ever_biologic": 0.0,
+        "jia_form": 0.2008303881144131
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 2,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.029203757912041713,
+        "n_biologic_switches": 0.10849088275100471,
+        "ana_result": 0.11613123645900739,
+        "ever_biologic": 0.0,
+        "jia_form": 0.2008303881144131
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 3,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 4,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 5,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 6,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 7,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 8,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 9,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    },
+    {
+      "input": {
+        "early_onset": "Yes",
+        "n_biologic_switches": 10,
+        "ana_result": "Positive",
+        "ever_biologic": "Yes",
+        "jia_form": "Persistent Oligo"
+      },
+      "shap_values": {
+        "early_onset": 0.036667514340907606,
+        "n_biologic_switches": 0.2290729796949481,
+        "ana_result": 0.10928456970435955,
+        "ever_biologic": 0.0,
+        "jia_form": 0.07963120149625161
+      }
+    }
+  ]
+}
