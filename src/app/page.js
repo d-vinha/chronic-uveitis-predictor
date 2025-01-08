@@ -235,7 +235,7 @@ export default function UveitisPredictor() {
     <main className="min-h-screen bg-gray-100 py-8">
       <div className="max-w-4xl mx-auto px-4">
         <h1 className="text-2xl font-bold text-center mb-6" style={{ color: '#0047AB' }}>
-          Chronic Uveitis Risk Prediction in JIA Patients
+          Chronic Uveitis Probability Prediction in JIA Patients
         </h1>
         <div className="flex justify-center space-x-4 text-sm">
         <a 
