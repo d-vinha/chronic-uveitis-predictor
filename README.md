@@ -1,4 +1,4 @@
-# Predictor of Chronic Uveitis Risk in JIA patients (chronic-uveitis-predictor)
+# Predictor of Chronic Uveitis Probability in JIA patients (chronic-uveitis-predictor)
 
 ## Live Demo
 Find the app at: [chronic-uveitis-predictor.vercel.app](https://chronic-uveitis-predictor.vercel.app/)
@@ -6,7 +6,13 @@ Find the app at: [chronic-uveitis-predictor.vercel.app](https://chronic-uveitis-
 Web application was developed using Next.js and deployed using Vercel.
 
 ## Overview
-chronic-uveitis-predictor is a small web application designed to output predictions of the risk of Chronic Uveitis in patients with Juvenile Idiopathic Arthritis (JIA). This is based on a decision tree ML model built in a study done with anonymized data from Reuma.pt (Rheumatic Diseases Portuguese Registry). 
+chronic-uveitis-predictor is a small web application designed to output predictions of the probability of Chronic Uveitis in patients with Juvenile Idiopathic Arthritis (JIA). This is based on a decision tree ML model built in a study done with anonymized data from Reuma.pt (Rheumatic Diseases Portuguese Registry), considering patients
+with JIA that do not meet criteria for adult rheumatic diseases:
+* 1992 Yamaguchi's diagnostic criteria for Adult Onset Still's Disease
+* CASPAR classification criteria for Psoriatic Arthritis
+* 2010 ACR/EULAR classification criteria for Rheumatoid Arthritis
+* ASAS criteria for classification of Axial Spondyloarthritis 
+* ASAS criteria for classification of Peripheral Spondyloarthritis 
 
 **Important Notice:** This tool is intended to function as a helper tool and its use HAS NOT BEEN CLINICALLY VALIDATED.
 
@@ -19,6 +25,7 @@ Decision Tree (DT) created using 3-fold, 10-repeats cross-validation, with prior
 * **Sensitivity:** 0.729 (±0.156)
 * **Specificity:** 0.744 (±0.051)
 * **PPV:** 0.199 (±0.027)
+* **NPV:** 0.970 (±0.017)
 * **AUC-ROC:** 0.788
 
 ### Feature Importance

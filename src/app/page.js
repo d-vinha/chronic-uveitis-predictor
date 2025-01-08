@@ -358,7 +358,7 @@ export default function UveitisPredictor() {
               type="submit"
               className="w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600 transition duration-300"
             >
-              Predict Risk
+              Predict Probability
             </button>
           </form>
           {/* Results Section */}
@@ -369,14 +369,14 @@ export default function UveitisPredictor() {
                 result.riskLevel === 'Moderate' ? 'bg-yellow-100 text-yellow-800' :
                 'bg-green-100 text-green-800'
               }`}>
-                <p>Risk Level: {result.riskLevel}</p>
+                <p>Probability Level: {result.riskLevel}</p>
                 <p>Probability: {(result.probability * 100).toFixed(1)}%</p>
               </div>
             {/* Explanation Section */}
             {explanation && explanation.length > 0 && (
               <div className="mt-6 bg-white p-4 rounded-md shadow-md">
                 <h2 className="text-xl font-bold mb-2 text-gray-800">
-                  Risk Factor Explanation
+                  Clinical Factor Explanation
                 </h2>
                 <div className="space-y-2">
                   {explanation.map((factor, index) => (
